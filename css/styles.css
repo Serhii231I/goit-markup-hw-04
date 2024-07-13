@@ -197,7 +197,6 @@ a {
   border-radius: 4px;
   margin-bottom: 8px;
   padding: 24px 100px;
-
   width: 264px;
 }
 
@@ -242,6 +241,10 @@ a {
   display: flex;
   gap: 24px;
 }
+
+.soc-icons-container {
+}
+
 .section-three-item {
   background-color: #ffffff;
   width: calc((100% - 3 * 24px) / 4);
@@ -271,12 +274,12 @@ a {
   color: #434455;
 }
 
-.soc-icons-container {
-  gap: 24px;
-  fill: #f4f4fd;
-}
 .soc-icons {
+  border-radius: 50%;
   background-color: #4d5ae5;
+  align-items: center;
+  justify-content: center;
+  fill: #f4f4fd;
 }
 
 .section-four {
