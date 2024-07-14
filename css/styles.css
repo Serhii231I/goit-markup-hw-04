@@ -261,6 +261,9 @@ a {
 }
 
 .section-three-list {
+  display: flex;
+  gap: 24px;
+  border-radius: 0 0 4px 4px;
 }
 
 .soc-icons-container {
