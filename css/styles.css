@@ -411,6 +411,7 @@ a {
 }
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .web-container {
@@ -446,6 +447,7 @@ a {
 .media-text {
   font-weight: 500;
   color: #fff;
+  margin-bottom: 16px;
 }
 .footer-icon-link:hover,
 .footer-icon-link:focus {
