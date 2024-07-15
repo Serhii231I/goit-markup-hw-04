@@ -360,7 +360,7 @@ a {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-.section-four-item:hover .hover-text {
+.section-four-item:hover .overlay-text {
   transform: translateY(0);
 }
 
@@ -393,7 +393,7 @@ a {
   overflow: hidden;
 }
 
-.hover-text {
+.overlay-text {
   position: absolute;
   top: 0;
   width: 100%;
