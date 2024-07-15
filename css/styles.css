@@ -219,7 +219,6 @@ a {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   margin-bottom: 8px;
-  padding: 24px 100px;
   width: 264px;
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
@@ -297,6 +296,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 .icon-list {
   display: flex;
@@ -307,7 +307,6 @@ a {
 .icon-item {
   width: 40px;
   height: 40px;
-  margin-top: 8px;
 }
 
 .icon-link {
